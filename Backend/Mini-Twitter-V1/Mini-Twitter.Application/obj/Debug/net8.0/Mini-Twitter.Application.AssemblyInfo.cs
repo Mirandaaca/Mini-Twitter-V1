@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Mini-Twitter.Application")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6baf8868b925d11a9e6e4d4721d17d0b7c6c8fc9")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9821e706d1e5efdf8b7775fd37e2075097e69c33")]
 [assembly: System.Reflection.AssemblyProductAttribute("Mini-Twitter.Application")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Mini-Twitter.Application")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
