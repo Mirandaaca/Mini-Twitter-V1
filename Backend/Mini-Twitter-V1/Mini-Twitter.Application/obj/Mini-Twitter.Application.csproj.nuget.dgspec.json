@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Ingenieria de Sistemas\\Proyectos\\Pruebas\\pruebagithub-developer\\Mini-Twitter-V1\\Backend\\Mini-Twitter-V1\\Mini-Twitter.Application\\Mini-Twitter.Application.csproj": {}
+    "D:\\Ingenieria de Sistemas\\Proyectos\\Pruebas\\pruebagithub-backend-developer\\Mini-Twitter-V1\\Backend\\Mini-Twitter-V1\\Mini-Twitter.Application\\Mini-Twitter.Application.csproj": {}
   },
   "projects": {
-    "D:\\Ingenieria de Sistemas\\Proyectos\\Pruebas\\pruebagithub-developer\\Mini-Twitter-V1\\Backend\\Mini-Twitter-V1\\Mini-Twitter.Application\\Mini-Twitter.Application.csproj": {
+    "D:\\Ingenieria de Sistemas\\Proyectos\\Pruebas\\pruebagithub-backend-developer\\Mini-Twitter-V1\\Backend\\Mini-Twitter-V1\\Mini-Twitter.Application\\Mini-Twitter.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Ingenieria de Sistemas\\Proyectos\\Pruebas\\pruebagithub-developer\\Mini-Twitter-V1\\Backend\\Mini-Twitter-V1\\Mini-Twitter.Application\\Mini-Twitter.Application.csproj",
+        "projectUniqueName": "D:\\Ingenieria de Sistemas\\Proyectos\\Pruebas\\pruebagithub-backend-developer\\Mini-Twitter-V1\\Backend\\Mini-Twitter-V1\\Mini-Twitter.Application\\Mini-Twitter.Application.csproj",
         "projectName": "Mini-Twitter.Application",
-        "projectPath": "D:\\Ingenieria de Sistemas\\Proyectos\\Pruebas\\pruebagithub-developer\\Mini-Twitter-V1\\Backend\\Mini-Twitter-V1\\Mini-Twitter.Application\\Mini-Twitter.Application.csproj",
+        "projectPath": "D:\\Ingenieria de Sistemas\\Proyectos\\Pruebas\\pruebagithub-backend-developer\\Mini-Twitter-V1\\Backend\\Mini-Twitter-V1\\Mini-Twitter.Application\\Mini-Twitter.Application.csproj",
         "packagesPath": "C:\\Users\\admsql\\.nuget\\packages\\",
-        "outputPath": "D:\\Ingenieria de Sistemas\\Proyectos\\Pruebas\\pruebagithub-developer\\Mini-Twitter-V1\\Backend\\Mini-Twitter-V1\\Mini-Twitter.Application\\obj\\",
+        "outputPath": "D:\\Ingenieria de Sistemas\\Proyectos\\Pruebas\\pruebagithub-backend-developer\\Mini-Twitter-V1\\Backend\\Mini-Twitter-V1\\Mini-Twitter.Application\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

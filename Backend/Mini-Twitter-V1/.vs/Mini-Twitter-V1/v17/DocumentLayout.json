@@ -1,13 +1,13 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Ingenieria de Sistemas\\Proyectos\\Pruebas\\pruebagithub-developer\\Mini-Twitter-V1\\Backend\\Mini-Twitter-V1\\",
+  "WorkspaceRootPath": "D:\\Ingenieria de Sistemas\\Proyectos\\Pruebas\\pruebagithub-backend-developer\\Mini-Twitter-V1\\Backend\\Mini-Twitter-V1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{AC86B354-4751-41B6-B5DC-25E95EFE499B}|Mini-Twitter.Domain\\Mini-Twitter.Domain.csproj|d:\\ingenieria de sistemas\\proyectos\\pruebas\\pruebagithub-developer\\mini-twitter-v1\\backend\\mini-twitter-v1\\mini-twitter.domain\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{AC86B354-4751-41B6-B5DC-25E95EFE499B}|Mini-Twitter.Domain\\Mini-Twitter.Domain.csproj|d:\\ingenieria de sistemas\\proyectos\\pruebas\\pruebagithub-backend-developer\\mini-twitter-v1\\backend\\mini-twitter-v1\\mini-twitter.domain\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AC86B354-4751-41B6-B5DC-25E95EFE499B}|Mini-Twitter.Domain\\Mini-Twitter.Domain.csproj|solutionrelative:mini-twitter.domain\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{02200E4B-37C0-401E-B443-094430AB5187}|Mini-Twitter.Application\\Mini-Twitter.Application.csproj|d:\\ingenieria de sistemas\\proyectos\\pruebas\\pruebagithub-developer\\mini-twitter-v1\\backend\\mini-twitter-v1\\mini-twitter.application\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{02200E4B-37C0-401E-B443-094430AB5187}|Mini-Twitter.Application\\Mini-Twitter.Application.csproj|d:\\ingenieria de sistemas\\proyectos\\pruebas\\pruebagithub-backend-developer\\mini-twitter-v1\\backend\\mini-twitter-v1\\mini-twitter.application\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{02200E4B-37C0-401E-B443-094430AB5187}|Mini-Twitter.Application\\Mini-Twitter.Application.csproj|solutionrelative:mini-twitter.application\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -32,11 +32,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Class1.cs",
-              "DocumentMoniker": "D:\\Ingenieria de Sistemas\\Proyectos\\Pruebas\\pruebagithub-developer\\Mini-Twitter-V1\\Backend\\Mini-Twitter-V1\\Mini-Twitter.Domain\\Class1.cs",
+              "DocumentMoniker": "D:\\Ingenieria de Sistemas\\Proyectos\\Pruebas\\pruebagithub-backend-developer\\Mini-Twitter-V1\\Backend\\Mini-Twitter-V1\\Mini-Twitter.Domain\\Class1.cs",
               "RelativeDocumentMoniker": "Mini-Twitter.Domain\\Class1.cs",
-              "ToolTip": "D:\\Ingenieria de Sistemas\\Proyectos\\Pruebas\\pruebagithub-developer\\Mini-Twitter-V1\\Backend\\Mini-Twitter-V1\\Mini-Twitter.Domain\\Class1.cs",
+              "ToolTip": "D:\\Ingenieria de Sistemas\\Proyectos\\Pruebas\\pruebagithub-backend-developer\\Mini-Twitter-V1\\Backend\\Mini-Twitter-V1\\Mini-Twitter.Domain\\Class1.cs",
               "RelativeToolTip": "Mini-Twitter.Domain\\Class1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-02T21:23:10.558Z",
               "EditorCaption": ""
@@ -45,14 +45,13 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Class1.cs",
-              "DocumentMoniker": "D:\\Ingenieria de Sistemas\\Proyectos\\Pruebas\\pruebagithub-developer\\Mini-Twitter-V1\\Backend\\Mini-Twitter-V1\\Mini-Twitter.Application\\Class1.cs",
+              "DocumentMoniker": "D:\\Ingenieria de Sistemas\\Proyectos\\Pruebas\\pruebagithub-backend-developer\\Mini-Twitter-V1\\Backend\\Mini-Twitter-V1\\Mini-Twitter.Application\\Class1.cs",
               "RelativeDocumentMoniker": "Mini-Twitter.Application\\Class1.cs",
-              "ToolTip": "D:\\Ingenieria de Sistemas\\Proyectos\\Pruebas\\pruebagithub-developer\\Mini-Twitter-V1\\Backend\\Mini-Twitter-V1\\Mini-Twitter.Application\\Class1.cs",
+              "ToolTip": "D:\\Ingenieria de Sistemas\\Proyectos\\Pruebas\\pruebagithub-backend-developer\\Mini-Twitter-V1\\Backend\\Mini-Twitter-V1\\Mini-Twitter.Application\\Class1.cs",
               "RelativeToolTip": "Mini-Twitter.Application\\Class1.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-02T21:22:55.356Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-02T21:22:55.356Z"
             }
           ]
         }

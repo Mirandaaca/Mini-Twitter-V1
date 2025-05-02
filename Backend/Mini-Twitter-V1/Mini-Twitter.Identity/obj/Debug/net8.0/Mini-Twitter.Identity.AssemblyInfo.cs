@@ -11,12 +11,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("Mini-Twitter.WebApi")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("Mini-Twitter.Identity")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9821e706d1e5efdf8b7775fd37e2075097e69c33")]
-[assembly: System.Reflection.AssemblyProductAttribute("Mini-Twitter.WebApi")]
-[assembly: System.Reflection.AssemblyTitleAttribute("Mini-Twitter.WebApi")]
+[assembly: System.Reflection.AssemblyProductAttribute("Mini-Twitter.Identity")]
+[assembly: System.Reflection.AssemblyTitleAttribute("Mini-Twitter.Identity")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Generado por la clase WriteCodeFragment de MSBuild.
