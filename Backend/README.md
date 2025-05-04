@@ -19,3 +19,17 @@ diseñado para fines educativos y prácticos.
 ```bash
 git clone https://github.com/CDS-DevsCommunity/Mini-Twitter-V1.git
 
+```
+2. **Ejecutar el backend**:
+```bash
+cd Backend
+dotnet restore
+dotnet run
+
+```
+3. **Ejecutar el frontend**:
+```bash
+cd Frontend
+npm install
+npm run dev
+```
