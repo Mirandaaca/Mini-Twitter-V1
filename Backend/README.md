@@ -1,8 +1,10 @@
 # Mini-Twitter V1
-[![React](https://img.shields.io/badge/React-18.2.0-blue)](https://react.dev/)
-[![.NET](https://img.shields.io/badge/.NET-6.0-purple)](https://dotnet.microsoft.com/)
-[![License](https://img.shields.io/badge/License-MIT-green)](LICENSE)
-Un clon básico de Twitter (X) desarrollado con **React** (frontend) y **.NET** (backend), diseñado para fines educativos y prácticos.
+[![React](https://img.shields.io/badge/React-19.1.0-blue)](https://react.dev/)
+[![.NET](https://img.shields.io/badge/.NET-8.0-purple)](https://dotnet.microsoft.com/)
+
+Un clon básico de Twitter (X) desarrollado con **React** (frontend) y **.NET** (backend), 
+diseñado para fines educativos y prácticos.
+
 ## 🚀 Características Principales
 - **Autenticación**: Registro e inicio de sesión con JWT.
 - **Tweets**: Publicar, ver, editar y eliminar tweets.
