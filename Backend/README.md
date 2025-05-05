@@ -20,6 +20,11 @@ Backend/
 │   └── Tests/              # Proyectos de pruebas unitarias e integración
 ├── Backend.sln             # Solución de Visual Studio
 └── appsettings.json        # Configuración (DB, JWT, etc.)
-## 🚀 **Ejecución**  
+```
+## 🚀 Ejecución
+1. **Restaurar paquetes**:  
    ```bash
    dotnet restore
+   dotnet ef database update
+   dotnet run
+   ```
