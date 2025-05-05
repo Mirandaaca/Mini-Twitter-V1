@@ -29,8 +29,8 @@ Frontend/
 └── package.json
 ```
 ## 🚀 Ejecución
-```bash
-    cd Frontend
-    npm install
-    npm start
-```
+   ```bash
+   cd Frontend
+   npm install
+   npm start
+   ```
