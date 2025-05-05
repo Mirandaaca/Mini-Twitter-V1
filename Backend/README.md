@@ -20,3 +20,6 @@ Backend/
 │   └── Tests/              # Proyectos de pruebas unitarias e integración
 ├── Backend.sln             # Solución de Visual Studio
 └── appsettings.json        # Configuración (DB, JWT, etc.)
+## 🚀 **Ejecución**  
+   ```bash
+   dotnet restore
