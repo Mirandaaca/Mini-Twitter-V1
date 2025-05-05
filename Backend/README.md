@@ -1,4 +1,3 @@
-```markdown
 # Backend - Mini Twitter V1
 
 Este directorio contiene la API REST desarrollada con ASP.NET Core (.NET 8).
@@ -12,8 +11,6 @@ Este directorio contiene la API REST desarrollada con ASP.NET Core (.NET 8).
 - xUnit + Moq para tests unitarios
 
 ## 📂 Estructura de Carpetas
-
-```plaintext
 Backend/
 ├── src/
 │   ├── Core/               # Entidades y lógica de dominio
