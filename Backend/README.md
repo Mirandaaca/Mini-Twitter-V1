@@ -22,7 +22,6 @@ Backend/
 └── appsettings.json        # Configuración (DB, JWT, etc.)
 ```
 ## 🚀 Ejecución
-1. **Restaurar paquetes**:  
    ```bash
    dotnet restore
    dotnet ef database update

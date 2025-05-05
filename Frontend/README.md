@@ -27,3 +27,10 @@ Frontend/
 │   ├── App.jsx            # Componente raíz
 │   └── index.js           # Punto de entrada
 └── package.json
+```
+## 🚀 Ejecución
+```bash
+    cd Frontend
+    npm install
+    npm start
+```
