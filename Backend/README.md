@@ -1,35 +1,24 @@
-# Mini-Twitter V1
-[![React](https://img.shields.io/badge/React-19.1.0-blue)](https://react.dev/)
-[![.NET](https://img.shields.io/badge/.NET-8.0-purple)](https://dotnet.microsoft.com/)
+```markdown
+# Backend - Mini Twitter V1
 
-Un clon básico de Twitter (X) desarrollado con **React** (frontend) y **.NET** (backend), 
-diseñado para fines educativos y prácticos.
+Este directorio contiene la API REST desarrollada con ASP.NET Core (.NET 8).
 
-## 🚀 Características Principales
-- **Autenticación**: Registro e inicio de sesión con JWT.
-- **Tweets**: Publicar, ver, editar y eliminar tweets.
-- **Perfiles**: Ver y editar perfiles de usuario.
-## 🛠️ Tecnología
-| Frontend              | Backend               |
-|-----------------------|-----------------------|
-| React 19              | .NET 8               |
+## 🛠 Tech Stack
 
-## 📦 Instalación
-1. **Clonar el repositorio**:
-```bash
-git clone https://github.com/CDS-DevsCommunity/Mini-Twitter-V1.git
+- .NET 8 (ASP.NET Core Web API)
+- Entity Framework Core (Code-First)
+- JWT para autenticación
+- Swagger / OpenAPI para documentación de endpoints
+- xUnit + Moq para tests unitarios
 
-```
-2. **Ejecutar el backend**:
-```bash
-cd Backend
-dotnet restore
-dotnet run
+## 📂 Estructura de Carpetas
 
-```
-3. **Ejecutar el frontend**:
-```bash
-cd Frontend
-npm install
-npm run dev
-```
+```plaintext
+Backend/
+├── src/
+│   ├── Core/               # Entidades y lógica de dominio
+│   ├── Infrastructure/      # EF Core, migraciones y repositorios
+│   ├── WebApi/             # Controllers, DTOs y configuración
+│   └── Tests/              # Proyectos de pruebas unitarias e integración
+├── Backend.sln             # Solución de Visual Studio
+└── appsettings.json        # Configuración (DB, JWT, etc.)

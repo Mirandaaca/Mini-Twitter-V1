@@ -1,29 +1,35 @@
-# Frontend - Mini Twitter V1
+# Mini-Twitter V1
+[![React](https://img.shields.io/badge/React-19.1.0-blue)](https://react.dev/)
+[![.NET](https://img.shields.io/badge/.NET-8.0-purple)](https://dotnet.microsoft.com/)
 
-Este directorio contiene la aplicación de interfaz de usuario desarrollada con React.
+Un clon básico de Twitter (X) desarrollado con **React** (frontend) y **.NET** (backend), 
+diseñado para fines educativos y prácticos.
 
-## 🛠 Tech Stack
+## 🚀 Características Principales
+- **Autenticación**: Registro e inicio de sesión con JWT.
+- **Tweets**: Publicar, ver, editar y eliminar tweets.
+- **Perfiles**: Ver y editar perfiles de usuario.
+## 🛠️ Tecnología
+| Frontend              | Backend               |
+|-----------------------|-----------------------|
+| React 19              | .NET 8               |
 
-- React 18
-- React Router v6
-- Context API para estado global
-- Axios para llamadas HTTP
-- Jest + React Testing Library para tests
+## 📦 Instalación
+1. **Clonar el repositorio**:
+```bash
+git clone https://github.com/CDS-DevsCommunity/Mini-Twitter-V1.git
 
-## 📂 Estructura de Carpetas
+```
+2. **Ejecutar el backend**:
+```bash
+cd Backend
+dotnet restore
+dotnet run
 
-```plaintext
-Frontend/
-├── public/                # Archivos estáticos
-├── src/
-│   ├── assets/            # Imágenes y estilos globales
-│   ├── components/        # Componentes UI reutilizables
-│   ├── features/          # Lógica y UI por funcionalidad
-│   ├── contexts/          # Providers de Context API
-│   ├── hooks/             # Custom hooks genéricos
-│   ├── services/          # Configuración de API y servicios
-│   ├── routes/            # Definición de rutas
-│   ├── utils/             # Funciones utilitarias
-│   ├── App.jsx            # Componente raíz
-│   └── index.js           # Punto de entrada
-└── package.json
+```
+3. **Ejecutar el frontend**:
+```bash
+cd Frontend
+npm install
+npm run dev
+```
